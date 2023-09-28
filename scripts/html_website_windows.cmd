@@ -1,1 +1,10 @@
-echo "<html>\n<head>\n</head>\n</html>" > index.html
+(
+echo <html>
+echo <head>
+echo <title>HTML WEBSITE</title>
+echo </head>
+echo <body>
+echo <p>Hello World</p>
+echo </body>
+echo </html>
+)>index.html
