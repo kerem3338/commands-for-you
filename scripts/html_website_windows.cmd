@@ -13,9 +13,12 @@ echo ^</html^>
 ) > index.html
 
 (
-echo console.log^("hello world"^)
+echo console.log^("hello world"^);
 ) > script.js
 
 (
 echo body {background-color:red}
 ) > styles.css
+
+cls
+echo Html website created.
